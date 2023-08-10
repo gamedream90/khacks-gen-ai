@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusaurus_yt_example=self.webpackChunkdocusaurus_yt_example||[]).push([[7615],{8111:e=>{e.exports=JSON.parse('{"permalink":"/khacks-gen-ai/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
