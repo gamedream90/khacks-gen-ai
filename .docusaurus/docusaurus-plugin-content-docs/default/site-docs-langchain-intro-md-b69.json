@@ -1,0 +1,24 @@
+{
+  "unversionedId": "langchain/intro",
+  "id": "langchain/intro",
+  "title": "Langchain",
+  "description": "What is Langchain",
+  "source": "@site/docs/langchain/intro.md",
+  "sourceDirName": "langchain",
+  "slug": "/langchain/intro",
+  "permalink": "/khacks-gen-ai/docs/langchain/intro",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/langchain/intro.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "mySidebar",
+  "previous": {
+    "title": "Building Chat Apps with Cohere",
+    "permalink": "/khacks-gen-ai/docs/chatbotwithCohert/intro"
+  },
+  "next": {
+    "title": "Chat with PDF",
+    "permalink": "/khacks-gen-ai/docs/chatwithpdf/intro"
+  }
+}

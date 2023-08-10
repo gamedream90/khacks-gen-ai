@@ -1,0 +1,20 @@
+{
+  "unversionedId": "chatbotllm/chatbotLLM",
+  "id": "chatbotllm/chatbotLLM",
+  "title": "Building a Chatbot with LLMs",
+  "description": "Now, we'll build a chatbot app, powered by an open source LLM.",
+  "source": "@site/docs/chatbotllm/chatbotLLM.md",
+  "sourceDirName": "chatbotllm",
+  "slug": "/chatbotllm/",
+  "permalink": "/khacks-gen-ai/docs/chatbotllm/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/chatbotllm/chatbotLLM.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "mySidebar",
+  "previous": {
+    "title": "Creating an Image Generation Application using Clipdrop API and Gradio",
+    "permalink": "/khacks-gen-ai/docs/imagegen/clipdropgradio"
+  }
+}

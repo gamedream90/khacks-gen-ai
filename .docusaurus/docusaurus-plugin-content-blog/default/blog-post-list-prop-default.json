@@ -1,0 +1,21 @@
+{
+  "title": "Recent posts",
+  "items": [
+    {
+      "title": "Welcome",
+      "permalink": "/khacks-gen-ai/blog/welcome"
+    },
+    {
+      "title": "MDX Blog Post",
+      "permalink": "/khacks-gen-ai/blog/mdx-blog-post"
+    },
+    {
+      "title": "Long Blog Post",
+      "permalink": "/khacks-gen-ai/blog/long-blog-post"
+    },
+    {
+      "title": "First Blog Post",
+      "permalink": "/khacks-gen-ai/blog/first-blog-post"
+    }
+  ]
+}

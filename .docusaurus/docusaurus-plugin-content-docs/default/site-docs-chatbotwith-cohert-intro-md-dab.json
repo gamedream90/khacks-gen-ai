@@ -1,0 +1,27 @@
+{
+  "unversionedId": "chatbotwithCohert/intro",
+  "id": "chatbotwithCohert/intro",
+  "title": "Building Chat Apps with Cohere",
+  "description": "Installation",
+  "source": "@site/docs/chatbotwithCohert/intro.md",
+  "sourceDirName": "chatbotwithCohert",
+  "slug": "/chatbotwithCohert/intro",
+  "permalink": "/khacks-gen-ai/docs/chatbotwithCohert/intro",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/chatbotwithCohert/intro.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "mySidebar",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/khacks-gen-ai/docs/intro"
+  },
+  "next": {
+    "title": "Langchain",
+    "permalink": "/khacks-gen-ai/docs/langchain/intro"
+  }
+}

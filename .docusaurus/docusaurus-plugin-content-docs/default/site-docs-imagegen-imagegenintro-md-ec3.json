@@ -1,0 +1,27 @@
+{
+  "unversionedId": "imagegen/imagegenintro",
+  "id": "imagegen/imagegenintro",
+  "title": "Image Generation",
+  "description": "Image Generation is the task of generating new images from an existing dataset. It is a part of Generative AI that also uses diffusion models to generate images in various ways.",
+  "source": "@site/docs/imagegen/imagegenintro.md",
+  "sourceDirName": "imagegen",
+  "slug": "/imagegen/imagegenintro",
+  "permalink": "/khacks-gen-ai/docs/imagegen/imagegenintro",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/imagegen/imagegenintro.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "mySidebar",
+  "previous": {
+    "title": "Image Captioning App",
+    "permalink": "/khacks-gen-ai/docs/imgcap/intro"
+  },
+  "next": {
+    "title": "What are Diffusion Models?",
+    "permalink": "/khacks-gen-ai/docs/imagegen/diffusionIntro"
+  }
+}

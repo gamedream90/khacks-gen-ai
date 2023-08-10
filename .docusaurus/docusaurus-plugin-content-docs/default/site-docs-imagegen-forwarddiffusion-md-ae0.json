@@ -1,0 +1,27 @@
+{
+  "unversionedId": "imagegen/forwarddiffusion",
+  "id": "imagegen/forwarddiffusion",
+  "title": "Forward Diffusion",
+  "description": "In the “Forward Diffusion” process, we slowly and iteratively add noise to (corrupt) the images in our training set such that they “move out or move away” from their existing subspace. At the end of the forward diffusion stage xT, due to the iterative addition of noise, we are left with a (pure) noisy image representing an “Isotropic Gaussian.”",
+  "source": "@site/docs/imagegen/forwarddiffusion.md",
+  "sourceDirName": "imagegen",
+  "slug": "/imagegen/forwarddiffusion",
+  "permalink": "/khacks-gen-ai/docs/imagegen/forwarddiffusion",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/imagegen/forwarddiffusion.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "mySidebar",
+  "previous": {
+    "title": "What are Diffusion Models?",
+    "permalink": "/khacks-gen-ai/docs/imagegen/diffusionIntro"
+  },
+  "next": {
+    "title": "Backward Diffusion",
+    "permalink": "/khacks-gen-ai/docs/imagegen/backward"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "imagegen/backward",
+  "id": "imagegen/backward",
+  "title": "Backward Diffusion",
+  "description": "As the name tells, the backward diffusion is complete reverse way of forward diffusion. It removes all the noise from a noisy image.",
+  "source": "@site/docs/imagegen/backward.md",
+  "sourceDirName": "imagegen",
+  "slug": "/imagegen/backward",
+  "permalink": "/khacks-gen-ai/docs/imagegen/backward",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/imagegen/backward.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "mySidebar",
+  "previous": {
+    "title": "Forward Diffusion",
+    "permalink": "/khacks-gen-ai/docs/imagegen/forwarddiffusion"
+  },
+  "next": {
+    "title": "What is ClipDrop?",
+    "permalink": "/khacks-gen-ai/docs/imagegen/clipdropintro"
+  }
+}

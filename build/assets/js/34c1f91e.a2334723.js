@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusaurus_yt_example=self.webpackChunkdocusaurus_yt_example||[]).push([[218],{4005:a=>{a.exports=JSON.parse('{"label":"facebook","permalink":"/khacks-gen-ai/blog/tags/facebook","allTagsPath":"/khacks-gen-ai/blog/tags","count":1}')}}]);

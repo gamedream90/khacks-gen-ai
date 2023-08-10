@@ -1,0 +1,24 @@
+{
+  "unversionedId": "streamlit/intro",
+  "id": "streamlit/intro",
+  "title": "Streamlit",
+  "description": "What is Streamlit ?",
+  "source": "@site/docs/streamlit/intro.md",
+  "sourceDirName": "streamlit",
+  "slug": "/streamlit/intro",
+  "permalink": "/khacks-gen-ai/docs/streamlit/intro",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/streamlit/intro.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "mySidebar",
+  "previous": {
+    "title": "Chat with PDF",
+    "permalink": "/khacks-gen-ai/docs/chatwithpdf/intro"
+  },
+  "next": {
+    "title": "Image Captioning App",
+    "permalink": "/khacks-gen-ai/docs/imgcap/intro"
+  }
+}

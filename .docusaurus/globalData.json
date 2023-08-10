@@ -1,0 +1,93 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/khacks-gen-ai/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/khacks-gen-ai/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "chatbotllm/chatbotLLM",
+              "path": "/khacks-gen-ai/docs/chatbotllm/",
+              "sidebar": "mySidebar"
+            },
+            {
+              "id": "chatbotwithCohert/intro",
+              "path": "/khacks-gen-ai/docs/chatbotwithCohert/intro",
+              "sidebar": "mySidebar"
+            },
+            {
+              "id": "chatwithpdf/intro",
+              "path": "/khacks-gen-ai/docs/chatwithpdf/intro",
+              "sidebar": "mySidebar"
+            },
+            {
+              "id": "imagegen/backward",
+              "path": "/khacks-gen-ai/docs/imagegen/backward",
+              "sidebar": "mySidebar"
+            },
+            {
+              "id": "imagegen/clipdropgradio",
+              "path": "/khacks-gen-ai/docs/imagegen/clipdropgradio",
+              "sidebar": "mySidebar"
+            },
+            {
+              "id": "imagegen/clipdropintro",
+              "path": "/khacks-gen-ai/docs/imagegen/clipdropintro",
+              "sidebar": "mySidebar"
+            },
+            {
+              "id": "imagegen/diffusionIntro",
+              "path": "/khacks-gen-ai/docs/imagegen/diffusionIntro",
+              "sidebar": "mySidebar"
+            },
+            {
+              "id": "imagegen/forwarddiffusion",
+              "path": "/khacks-gen-ai/docs/imagegen/forwarddiffusion",
+              "sidebar": "mySidebar"
+            },
+            {
+              "id": "imagegen/imagegenintro",
+              "path": "/khacks-gen-ai/docs/imagegen/imagegenintro",
+              "sidebar": "mySidebar"
+            },
+            {
+              "id": "imgcap/intro",
+              "path": "/khacks-gen-ai/docs/imgcap/intro",
+              "sidebar": "mySidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/khacks-gen-ai/docs/intro",
+              "sidebar": "mySidebar"
+            },
+            {
+              "id": "langchain/intro",
+              "path": "/khacks-gen-ai/docs/langchain/intro",
+              "sidebar": "mySidebar"
+            },
+            {
+              "id": "streamlit/intro",
+              "path": "/khacks-gen-ai/docs/streamlit/intro",
+              "sidebar": "mySidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "mySidebar": {
+              "link": {
+                "path": "/khacks-gen-ai/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "chatwithpdf/intro",
+  "id": "chatwithpdf/intro",
+  "title": "Chat with PDF",
+  "description": "Objective :",
+  "source": "@site/docs/chatwithpdf/intro.md",
+  "sourceDirName": "chatwithpdf",
+  "slug": "/chatwithpdf/intro",
+  "permalink": "/khacks-gen-ai/docs/chatwithpdf/intro",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/chatwithpdf/intro.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "mySidebar",
+  "previous": {
+    "title": "Langchain",
+    "permalink": "/khacks-gen-ai/docs/langchain/intro"
+  },
+  "next": {
+    "title": "Streamlit",
+    "permalink": "/khacks-gen-ai/docs/streamlit/intro"
+  }
+}

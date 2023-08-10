@@ -1,0 +1,24 @@
+{
+  "unversionedId": "imgcap/intro",
+  "id": "imgcap/intro",
+  "title": "Image Captioning App",
+  "description": "Now we are going to build an image captioning app using an open-source image-to-text",
+  "source": "@site/docs/imgcap/intro.md",
+  "sourceDirName": "imgcap",
+  "slug": "/imgcap/intro",
+  "permalink": "/khacks-gen-ai/docs/imgcap/intro",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/imgcap/intro.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "mySidebar",
+  "previous": {
+    "title": "Streamlit",
+    "permalink": "/khacks-gen-ai/docs/streamlit/intro"
+  },
+  "next": {
+    "title": "Image Generation",
+    "permalink": "/khacks-gen-ai/docs/imagegen/imagegenintro"
+  }
+}

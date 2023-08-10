@@ -1,0 +1,27 @@
+{
+  "unversionedId": "imagegen/diffusionIntro",
+  "id": "imagegen/diffusionIntro",
+  "title": "What are Diffusion Models?",
+  "description": "Diffusion (or Diffusion process) is a well-known and explored domain in non-equilibrium statistical physics and thermodynamics.",
+  "source": "@site/docs/imagegen/diffusionIntro.md",
+  "sourceDirName": "imagegen",
+  "slug": "/imagegen/diffusionIntro",
+  "permalink": "/khacks-gen-ai/docs/imagegen/diffusionIntro",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/imagegen/diffusionIntro.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "mySidebar",
+  "previous": {
+    "title": "Image Generation",
+    "permalink": "/khacks-gen-ai/docs/imagegen/imagegenintro"
+  },
+  "next": {
+    "title": "Forward Diffusion",
+    "permalink": "/khacks-gen-ai/docs/imagegen/forwarddiffusion"
+  }
+}

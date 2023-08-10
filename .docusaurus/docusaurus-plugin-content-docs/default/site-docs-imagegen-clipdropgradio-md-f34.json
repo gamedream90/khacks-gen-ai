@@ -1,0 +1,27 @@
+{
+  "unversionedId": "imagegen/clipdropgradio",
+  "id": "imagegen/clipdropgradio",
+  "title": "Creating an Image Generation Application using Clipdrop API and Gradio",
+  "description": "Gradio enables the creation and sharing of demos in Python with just a few lines of code. It provides the capability to host webpages and potentially generate revenue. This documentation outlines the process of building an image generation application using the Clipdrop API and Gradio.",
+  "source": "@site/docs/imagegen/clipdropgradio.md",
+  "sourceDirName": "imagegen",
+  "slug": "/imagegen/clipdropgradio",
+  "permalink": "/khacks-gen-ai/docs/imagegen/clipdropgradio",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/imagegen/clipdropgradio.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "mySidebar",
+  "previous": {
+    "title": "What is ClipDrop?",
+    "permalink": "/khacks-gen-ai/docs/imagegen/clipdropintro"
+  },
+  "next": {
+    "title": "Building a Chatbot with LLMs",
+    "permalink": "/khacks-gen-ai/docs/chatbotllm/"
+  }
+}

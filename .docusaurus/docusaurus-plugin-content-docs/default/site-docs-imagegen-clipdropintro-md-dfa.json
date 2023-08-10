@@ -1,0 +1,27 @@
+{
+  "unversionedId": "imagegen/clipdropintro",
+  "id": "imagegen/clipdropintro",
+  "title": "What is ClipDrop?",
+  "description": "ClipDrop.co is a cutting-edge platform that harnesses the power of generative artificial intelligence to revolutionize visual content creation. By seamlessly integrating advanced AI algorithms with intuitive user interfaces, ClipDrop.co empowers users to effortlessly transform ideas into reality. Whether it's generating stunning artwork, realistic scenes, or intricate designs, this platform opens up a realm of creative possibilities, enabling individuals to transcend traditional limitations and explore new frontiers in digital expression.",
+  "source": "@site/docs/imagegen/clipdropintro.md",
+  "sourceDirName": "imagegen",
+  "slug": "/imagegen/clipdropintro",
+  "permalink": "/khacks-gen-ai/docs/imagegen/clipdropintro",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/imagegen/clipdropintro.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "mySidebar",
+  "previous": {
+    "title": "Backward Diffusion",
+    "permalink": "/khacks-gen-ai/docs/imagegen/backward"
+  },
+  "next": {
+    "title": "Creating an Image Generation Application using Clipdrop API and Gradio",
+    "permalink": "/khacks-gen-ai/docs/imagegen/clipdropgradio"
+  }
+}
